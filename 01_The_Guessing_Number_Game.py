@@ -40,7 +40,7 @@ def guessing_game():
 
 
 print("""
-
+ 
    Welcome To the Number Guessing Game!!
 
 I'm Thinking of a number between 1 and 100.
